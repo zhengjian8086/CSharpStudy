@@ -1,0 +1,6 @@
+# Build and compile folder
+bin/
+obj/
+
+# VS cache folder
+.vs/
